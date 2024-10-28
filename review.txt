@@ -1,2 +1,2 @@
 git Review 
-pull and push commands
+pull and push resquest
